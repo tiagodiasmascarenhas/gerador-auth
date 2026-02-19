@@ -1,6 +1,7 @@
 {
   "usuarios": [
-    { "cpf": "03033107583", "senha": "123456789" },
-    { "cpf": "98765432100", "senha": "servico2026" }
+    { "usuario": "tiago mascarenhas", "senha": "123456789" },
+    { "usuario": "arlinda santos", "senha": "servico2026" },
+    { "usuario": "castelo branco", "senha": "cb2026" }
   ]
 }
